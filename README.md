@@ -4,6 +4,8 @@ Surface mounted version of ATmega8_POV, persistence-of-vision (POV) display with
 
 ![Image1](ATmega8_POV_SMD.png?raw=true "Atmega 8 POV SMD")
 
+![Image1](ATmega8_POV_SMD.v2.png?raw=true "Atmega 8 POV SMD")
+
 
 ## Thanks
 
